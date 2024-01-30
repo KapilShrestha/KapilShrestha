@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi, I'm Kapil Shrestha</h1>
-<h3 align="center">A full stack enthusiast.</h3>
+<h2 align="center">Welcome!</h2>
+<h1 align="center">Kapil Shrestha</h1>
+<h3 align="center">Computer engineering student fueled by curiosity, diving into the depths of programming to craft innovative solutions and make a mark in the digital realm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="kapilshrestha" /> </p>
 
